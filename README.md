@@ -1,5 +1,5 @@
 
-
+![snake animation](https://github.com/erkambozan/erkambozan/blob/output/github-contribution-grid-snake2.svg)
 
 <h1 align="center">Hi 👋, I'm Erkam</h1>
 <h3 align="center">Quality Driven Full Stack Developer</h3>

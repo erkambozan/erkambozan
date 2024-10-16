@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erkambozan" alt="erkambozan" /></a> </p>
 
-- 🔭 I’m currently working on **Paillor**
+- 🔭 I’m currently working at **Paillor**
 
 - 🌱 I’m currently learning **Software Craftmanship, Hexagonal Arch.**
 

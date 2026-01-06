@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Erkam</h1>
 <h3 align="center">Quality Driven Full Stack Developer</h3>
 
-<p align="left"> <img src="https://github.com/erkambozan.png" alt="erkambozan" /> </p>
+<!-- <p align="left"> <img src="https://github.com/erkambozan.png" alt="erkambozan" /> </p> -->
 
 - 🔭 I’m currently working at **Paraltera**
 
